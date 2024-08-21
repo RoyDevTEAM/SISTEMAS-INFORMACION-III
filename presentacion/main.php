@@ -16,7 +16,7 @@
 
 </head>
 <body class="bg-gray-100 text-gray-800">
-    <!-- Navbar -->
+    <!-- Navbar HOLAA PRUEBAAA-->
     <nav id="navbar" class="border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700  bg-white shadow-lg sticky top-0 z-50">
 
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
