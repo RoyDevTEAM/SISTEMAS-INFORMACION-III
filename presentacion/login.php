@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         "SELECT * FROM Usuario WHERE Email = :email AND Password = :password"
     );
 
-    // Obtener valores del formulario
+    // Obtener valores del formulario gwherhweiurhiuwehriuhweiuriuwh irvw rbehviur b iuehwiusrfhiuwehjriu  iue rfiuw iuhiursdiufwhiu hiuhiurshiuhseiurfiuwehsdiufhiuesrhfiuw < uies iuiuesthiu thiutiodusoituoisdutoi udsfoi utois utoi u
     $email = $_POST["email"];
     $password = $_POST["password"];
     
